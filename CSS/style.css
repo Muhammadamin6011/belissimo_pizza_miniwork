@@ -1,0 +1,111 @@
+.select1{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding: 15px 35px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 0px 10px 3px rgb(255, 29, 29);
+}
+
+.selector2{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding: 15px 35px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 0px 10px 3px rgb(255, 29, 29);
+}
+
+.selector3{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding: 15px 35px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 0px 10px 3px rgb(255, 29, 29);
+}
+
+.selector4{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding: 15px 35px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 0px 10px 3px rgb(255, 29, 29);
+}
+
+.selector5{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding: 15px 35px;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow:0px 0px 10px 3px rgb(255, 29, 29);
+}
+
+.div_big{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div_mini{
+    display: flex;
+}
+
+.box2{
+    width: 900px;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+    margin: 50px auto;
+    overflow-x: hidden;
+    padding: 30px;
+    box-shadow: 0px 0px 10px 3px rgb(255, 29, 29);
+    border-radius: 30px;
+}
+
+.img{
+    margin-left: 50px;
+}
+
+.box {
+    width: 900px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    margin: 50px auto;
+    overflow-x: hidden;
+    padding: 30px;
+    /* box-shadow: 0px 0px 10px 3px rgb(255, 29, 29); */
+    border-radius: 30px;
+}
+
+.text {
+    text-shadow: 5px -3px 1px rgb(255, 29, 29);
+    height: 400px;
+    overflow-x: hidden;
+    margin: 30px 30px;
+    font-family: sans-serif;
+
+}
+
+.text::-webkit-scrollbar{
+    width: 5px;
+}
+
+.text.box2::-webkit-scrollbar-thum {
+    background-color: rgb(255, 29, 29);
+    border-radius: 5px;
+}
+
+.box2.box::-webkit-scrollbar-thumb{
+width: 1px;
+}
